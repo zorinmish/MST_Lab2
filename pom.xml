@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    
+    <groupId>com.lab2</groupId> <!-- Измените это на ваш groupId -->
+    <artifactId>lab2Project</artifactId> <!-- Измените это на ваш artifactId -->
+
+    <dependencies>
+        <dependency>
+            <groupId>net.sf.ingenias</groupId>
+            <artifactId>jade</artifactId>
+            <version>4.3</version>
+        </dependency>
+    </dependencies>
+    
+    <!-- Другая информация о проекте -->
+</project>
