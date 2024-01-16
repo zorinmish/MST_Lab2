@@ -4,6 +4,7 @@
     
     <groupId>com.lab2</groupId> <!-- Измените это на ваш groupId -->
     <artifactId>lab2Project</artifactId> <!-- Измените это на ваш artifactId -->
+    <version>1.0-SNAPSHOT</version> <!-- Измените это на вашу версию -->
 
     <dependencies>
         <dependency>
